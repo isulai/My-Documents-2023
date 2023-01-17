@@ -1,0 +1,33 @@
+Awan Infotech
+
+Staging	-->	UAT	-->	Production		Pilot(C.Testing)		Tri/Landscape		DR
+
+
+*Ivanti Service Management*		*Landscaapes*										*Example*
+
+ISM1	- Production			IRW	- Ireland									IRW	 - Region
+ISM2	- Staging				FFZ	- Frankfrut (German)						ISM1 - Production
+ISM3	- Pilot 				WAZ	- Washington								DB	 - Database
+ISM4	- Try (Demo)			LDZ	- London									CL	 - Cluster
+There is no ISM5				NSZ	- N.Sydney									ND1	 - Node 1
+ISM6	- DR					NVZ	- N.Virginia
+								TTZ - Toronto (Canada)
+								NVF	- Fedram (***Special in america***)
+
+
+
+
+
+
+
+*Using Tools*									*Using Tools*
+
+Skype											Status Page			-	Notification to customer
+SaaS NOC Mail									Site 24/7			-	Entire Site Configuation Tenent / Certificate / Downalart
+Teams											New Relic			-	Application Monitoring	
+Workspace										Password State		-	All Password
+Remote Desktop Connection						Rackspace/Sendgrid	-	We are hoisting Mailboxes
+Remote desktop manager							RedGate				-	DB Port / Failover / DB CPU
+SQL Server manager								Sales Force			-	Customer		
+												TMI					-	Tenent Management Interface / Neurons accounts only (Neurons -  Account Management)
+												Amazon & Azure		-	To connect tenents using cloud services.
